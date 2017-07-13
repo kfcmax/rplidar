@@ -7,7 +7,7 @@ Usage example:
 >>> 
 >>> info = lidar.get_info()
 >>> print(info)
->>> 
+>>> pass
 >>> health = lidar.get_health()
 >>> print(health)
 >>> 
